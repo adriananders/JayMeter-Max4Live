@@ -81,6 +81,7 @@ Bypasses the dynamics effect.
   <ul>Unlike similar MIDI effects, JayMeter interpolates timing and dynamics between steps in a sequence. This gives the effect a more fluid flow for dense sub-step sequences.</ul>
   <ul>Timing module handles the concept of push offset in the step sequencer as combination of negative step sequencer values combined with positive global offsets. The result is that all MIDI note events are delayed, however some are delayed less than others, creating the effect of a human pulling the beat or note forward.</ul>
   <ul>Timing module is best applied after recording a sequence or through the use of another MIDI sequencer. Live playback with unpredictable MIDI delays may produce unintended results</ul>
+  <ul>Aligning a JayMeter global timing offset with other MIDI sequences or audio should be done through the use of any kind of effect which can produce a dry sample or MIDI event delay. Alternatively record the output of JayMeter to audio then trim the recording to start the downbeat in alignment with other tracks.</ul>
   <ul>MIDI delay (timing) values are clipped to 0.00 for negative values for obvious reasons that time travel has yet to be invented.</ul>
   <ul>Likewise the MIDI standard limits values of velocity (dynamics) to 0-127 and will be clipped to that range.</ul>
   <ul>Timing module effects both the note on and note off MIDI events.</ul>
