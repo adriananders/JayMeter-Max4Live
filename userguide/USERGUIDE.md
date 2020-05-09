@@ -39,7 +39,7 @@ A final pass multiplier to current offset values. This is different from strengt
 
 <h4>Sequencer Speed</h4>
 <img src="/img/timing-05-s_speed.png" alt="Sequencer Speed">
-How fast the sequencer moves between steps. 1 is one beat per step. Moving to the left from the center increases the speed to sub-step divisions. Moving to the right from the center slows the seqence down to multiples of beats per step.
+How fast the sequencer moves between steps. 1 is one beat per step. Moving to the right from the center increases the speed to sub-step divisions. Moving to the left from the center slows the seqence down to multiples of beats per step.
 
 <h4>Enabled</h4>
 <img src="/img/timing-06-enabled.png" alt="Enabled">
@@ -69,7 +69,7 @@ Velocity curve applied as a final pass to the MIDI velocity. Center of 0.00 is a
 
 <h4>Sequencer Speed</h4>
 <img src="/img/dynamics-05-s_speed.png" alt="Sequencer Speed">
-How fast the sequencer moves between steps. 1 is one beat per step. Moving to the left from the center increases the speed to sub-step divisions. Moving to the right from the center slows the seqence down to multiples of beats per step.
+How fast the sequencer moves between steps. 1 is one beat per step. Moving to the right from the center increases the speed to sub-step divisions. Moving to the left from the center slows the seqence down to multiples of beats per step.
 
 <h4>Enabled</h4>
 <img src="/img/dynamics-06-enabled.png" alt="Enabled">
