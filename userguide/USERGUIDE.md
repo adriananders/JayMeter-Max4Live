@@ -10,7 +10,7 @@ Inspired by the humanized and offbeat sounds of Hip-Hop and IDM productions, Jay
 
 Add the file [JayMeter-Definitive.amxd](/devices/JayMeter-Definitive.amxd) to your favorite Max 4 Live MIDI effects path.<br>
 Drag & drop the patch into an available MIDI channel with or without an existing plugin instrument.<br>
-By default, the device is enabled but does not produce a noticable effect on incoming MIDI.<br>
+By default, the device is enabled but does not produce a noticeable effect on incoming MIDI.<br>
 Modify the behavior of the incoming MIDI by changing the value dials as follows.<br>
 
 <h2>Parameter Guide</h2>
@@ -31,7 +31,7 @@ Strength percentage of offset steps. 1.00 is full strength.
 
 <h4>Random</h4>
 <img src="/img/timing-03-random.png" alt="Random">
-Percentage width of random postive and negative offsets. The closer to 1, the greater the possible randomness up to +/- 1 full beat.
+Percentage width of random positive and negative offsets. The closer to 1, the greater the possible randomness up to +/- 1 full beat.
 
 <h4>Multiplier</h4>
 <img src="/img/timing-04-multiplier.png" alt="Multiplier">
@@ -39,7 +39,7 @@ A final pass multiplier to current offset values. This is different from strengt
 
 <h4>Sequencer Speed</h4>
 <img src="/img/timing-05-s_speed.png" alt="Sequencer Speed">
-How fast the sequencer moves between steps. 1 is one beat per step. Moving to the right from the center increases the speed to sub-step divisions. Moving to the left from the center slows the seqence down to multiples of beats per step.
+How fast the sequencer moves between steps. 1 is one beat per step. Moving to the right from the center increases the speed to sub-step divisions. Moving to the left from the center slows the sequence down to multiples of beats per step.
 
 <h4>Enabled</h4>
 <img src="/img/timing-06-enabled.png" alt="Enabled">
@@ -53,7 +53,7 @@ Bypasses the timing effect.
 
 <h4>Offset</h4>
 <img src="/img/dynamics-01-offset.png" alt="Offset">
-Globla offset of the velocity as a positive or negative whole number.
+Global offset of the velocity as a positive or negative whole number.
 
 <h4>Width</h4>
 <img src="/img/dynamics-02-width.png" alt="Width">
@@ -61,7 +61,7 @@ Width of step sequencer offset as a percentage.
 
 <h4>Random</h4>
 <img src="/img/dynamics-03-random.png" alt="Random">
-Percentage width of random postive and negative velocity adjustments. The closer to 1, the greater the possible randomness up to +/- 127.
+Percentage width of random positive and negative velocity adjustments. The closer to 1, the greater the possible randomness up to +/- 127.
 
 <h4>Curve</h4>
 <img src="/img/dynamics-04-curve.png" alt="Curve">
@@ -69,7 +69,7 @@ Velocity curve applied as a final pass to the MIDI velocity. Center of 0.00 is a
 
 <h4>Sequencer Speed</h4>
 <img src="/img/dynamics-05-s_speed.png" alt="Sequencer Speed">
-How fast the sequencer moves between steps. 1 is one beat per step. Moving to the right from the center increases the speed to sub-step divisions. Moving to the left from the center slows the seqence down to multiples of beats per step.
+How fast the sequencer moves between steps. 1 is one beat per step. Moving to the right from the center increases the speed to sub-step divisions. Moving to the left from the center slows the sequence down to multiples of beats per step.
 
 <h4>Enabled</h4>
 <img src="/img/dynamics-06-enabled.png" alt="Enabled">
