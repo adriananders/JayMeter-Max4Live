@@ -3,6 +3,6 @@ MIDI Timing (Delay) and Dynamics (Velocity) Sequencer for Ableton Live with Max 
 
 ![Screenshot](/img/jaymeter-screen1.png)
 
-Requires Ableton Live 9 and Max 4 Live 7.
+Requires Ableton Live 10 and Max 4 Live 8.
 
 [User Guide](/userguide/USERGUIDE.md)
