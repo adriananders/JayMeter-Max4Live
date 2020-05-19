@@ -3,8 +3,8 @@
 Inspired by the humanized and offbeat sounds of Hip-Hop and IDM productions, JayMeter is a 16-step timing and dynamics sequencer for Ableton Live with Max 4 Live. It is a MIDI effect which does not produce MIDI notes on its own. Rather MIDI notes need to be fed from either Ableton Live's sequencer or external MIDI fed through Ableton Live. JayMeter then transforms the timing and velocity (dynamics) of the MIDI notes.
 
 <h2>Requirements</h2>
-  <ul>Ableton Live 9</ul>
-  <ul>Max 4 Live 7</ul>
+  <ul>Ableton Live 10</ul>
+  <ul>Max 4 Live 8</ul>
 
 <h2>Usage</h2>
 
